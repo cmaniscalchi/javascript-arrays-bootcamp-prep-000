@@ -1,4 +1,4 @@
-# JavaScript Arrays
+lastadd.length# JavaScript Arrays
 
 ## Objectives
 
